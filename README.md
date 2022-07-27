@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o Joao Eduardo!
 -  Eu sou estou interessado em programar.
 -  Sou novato na área, mas, busco ser mais.
--  Qual pedido de colaboração ajudarei noq der.
+-  Qualquer pedido de colaboração ajudarei no que der.
 -  Não sou onisciente, qualquer tipo de critica é mais q bem vinda.
 
 <!---
